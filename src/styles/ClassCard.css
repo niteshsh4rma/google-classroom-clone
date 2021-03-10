@@ -1,0 +1,12 @@
+.root{
+    max-width: 345px;
+    border-radius: 10px;
+}
+
+.root:hover{
+    box-shadow: 5px 5px black;
+}
+
+.media{
+    height: 140px;
+}
